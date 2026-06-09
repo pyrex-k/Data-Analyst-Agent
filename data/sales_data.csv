@@ -1,0 +1,87 @@
+date,region,product,category,units_sold,unit_price,revenue,cost,profit,customer_age,customer_gender,marketing_channel
+2024-01-05,North,Laptop Pro,Electronics,45,1299.99,58499.55,39000,19499.55,34,M,Online
+2024-01-05,South,Wireless Earbuds,Electronics,120,89.99,10798.80,4800,5998.80,27,F,Social Media
+2024-01-06,East,Office Chair,Furniture,30,349.99,10499.70,7500,2999.70,42,M,Email
+2024-01-06,West,Standing Desk,Furniture,18,699.99,12599.82,9000,3599.82,38,F,Referral
+2024-01-07,North,Mechanical Keyboard,Electronics,75,149.99,11249.25,4500,6749.25,29,M,Online
+2024-01-07,South,Monitor 4K,Electronics,40,549.99,21999.60,16000,5999.60,35,F,Search
+2024-01-08,East,Webcam HD,Electronics,95,79.99,7599.05,3800,3799.05,31,M,Social Media
+2024-01-08,West,Laptop Pro,Electronics,38,1299.99,49399.62,33000,16399.62,45,F,Online
+2024-01-09,North,Coffee Maker,Appliances,55,129.99,7149.45,3300,3849.45,39,M,Email
+2024-01-09,South,Air Purifier,Appliances,28,249.99,6999.72,4200,2799.72,52,F,Referral
+2024-01-10,East,Wireless Mouse,Electronics,110,49.99,5498.90,2200,3298.90,26,M,Search
+2024-01-10,West,Desk Lamp,Furniture,80,39.99,3199.20,1600,1599.20,33,F,Social Media
+2024-01-11,North,Smart Watch,Electronics,60,299.99,17999.40,9000,8999.40,28,M,Online
+2024-01-11,South,Blender Pro,Appliances,45,89.99,4049.55,1800,2249.55,41,F,Email
+2024-01-12,East,Laptop Pro,Electronics,52,1299.99,67599.48,45000,22599.48,37,M,Referral
+2024-01-12,West,Wireless Earbuds,Electronics,145,89.99,13048.55,5800,7248.55,24,F,Social Media
+2024-01-13,North,Office Chair,Furniture,22,349.99,7699.78,5500,2199.78,44,M,Search
+2024-01-13,South,Standing Desk,Furniture,15,699.99,10499.85,7500,2999.85,36,F,Online
+2024-01-14,East,Mechanical Keyboard,Electronics,88,149.99,13199.12,5280,7919.12,30,M,Email
+2024-01-14,West,Monitor 4K,Electronics,35,549.99,19249.65,14000,5249.65,47,F,Social Media
+2024-01-15,North,Webcam HD,Electronics,102,79.99,8158.98,4080,4078.98,32,M,Referral
+2024-01-15,South,Coffee Maker,Appliances,67,129.99,8709.33,4020,4689.33,40,F,Search
+2024-02-01,East,Laptop Pro,Electronics,48,1299.99,62399.52,42000,20399.52,35,M,Online
+2024-02-01,West,Smart Watch,Electronics,72,299.99,21599.28,10800,10799.28,29,F,Social Media
+2024-02-02,North,Air Purifier,Appliances,32,249.99,7999.68,4800,3199.68,50,M,Email
+2024-02-02,South,Wireless Mouse,Electronics,125,49.99,6248.75,2500,3748.75,27,F,Online
+2024-02-03,East,Desk Lamp,Furniture,95,39.99,3799.05,1900,1899.05,34,M,Search
+2024-02-03,West,Blender Pro,Appliances,50,89.99,4499.50,2000,2499.50,43,F,Referral
+2024-02-04,North,Laptop Pro,Electronics,41,1299.99,53299.59,36000,17299.59,38,M,Social Media
+2024-02-04,South,Wireless Earbuds,Electronics,138,89.99,12418.62,5520,6898.62,25,F,Email
+2024-02-05,East,Office Chair,Furniture,26,349.99,9099.74,6500,2599.74,46,M,Online
+2024-02-05,West,Standing Desk,Furniture,20,699.99,13999.80,10000,3999.80,39,F,Search
+2024-02-06,North,Mechanical Keyboard,Electronics,82,149.99,12299.18,4920,7379.18,31,M,Social Media
+2024-02-06,South,Monitor 4K,Electronics,44,549.99,24199.56,17600,6599.56,36,F,Referral
+2024-02-07,East,Webcam HD,Electronics,98,79.99,7839.02,3920,3919.02,28,M,Email
+2024-02-07,West,Coffee Maker,Appliances,60,129.99,7799.40,3600,4199.40,41,F,Online
+2024-02-08,North,Air Purifier,Appliances,35,249.99,8749.65,5250,3499.65,53,M,Search
+2024-02-08,South,Smart Watch,Electronics,65,299.99,19499.35,9750,9749.35,30,F,Social Media
+2024-03-01,East,Laptop Pro,Electronics,55,1299.99,71499.45,46500,24999.45,36,M,Referral
+2024-03-01,West,Wireless Earbuds,Electronics,160,89.99,14398.40,6400,7998.40,26,F,Online
+2024-03-02,North,Office Chair,Furniture,28,349.99,9799.72,7000,2799.72,43,M,Email
+2024-03-02,South,Standing Desk,Furniture,17,699.99,11899.83,8500,3399.83,37,F,Search
+2024-03-03,East,Mechanical Keyboard,Electronics,92,149.99,13799.08,5520,8279.08,29,M,Social Media
+2024-03-03,West,Monitor 4K,Electronics,38,549.99,20899.62,15200,5699.62,48,F,Referral
+2024-03-04,North,Webcam HD,Electronics,108,79.99,8638.92,4320,4318.92,33,M,Online
+2024-03-04,South,Coffee Maker,Appliances,72,129.99,9359.28,4320,5039.28,40,F,Email
+2024-03-05,East,Wireless Mouse,Electronics,130,49.99,6498.70,2600,3898.70,27,M,Search
+2024-03-05,West,Desk Lamp,Furniture,88,39.99,3519.12,1760,1759.12,34,F,Social Media
+2024-03-06,North,Smart Watch,Electronics,68,299.99,20399.32,10200,10199.32,31,M,Referral
+2024-03-06,South,Blender Pro,Appliances,52,89.99,4679.48,2080,2599.48,44,F,Online
+2024-03-07,East,Air Purifier,Appliances,38,249.99,9499.62,5700,3799.62,51,M,Email
+2024-03-07,West,Laptop Pro,Electronics,43,1299.99,55899.57,37500,18399.57,39,F,Search
+2024-03-08,North,Wireless Earbuds,Electronics,155,89.99,13948.45,6200,7748.45,25,M,Social Media
+2024-03-08,South,Office Chair,Furniture,24,349.99,8399.76,6000,2399.76,45,F,Referral
+2024-04-01,East,Standing Desk,Furniture,22,699.99,15399.78,11000,4399.78,38,M,Online
+2024-04-01,West,Mechanical Keyboard,Electronics,85,149.99,12749.15,5100,7649.15,30,F,Email
+2024-04-02,North,Monitor 4K,Electronics,42,549.99,23099.58,16800,6299.58,37,M,Search
+2024-04-02,South,Webcam HD,Electronics,115,79.99,9198.85,4600,4598.85,29,F,Social Media
+2024-04-03,East,Coffee Maker,Appliances,78,129.99,10139.22,4680,5459.22,42,M,Referral
+2024-04-03,West,Wireless Mouse,Electronics,118,49.99,5898.82,2360,3538.82,28,F,Online
+2024-04-04,North,Desk Lamp,Furniture,92,39.99,3679.08,1840,1839.08,35,M,Email
+2024-04-04,South,Smart Watch,Electronics,70,299.99,20999.30,10500,10499.30,32,F,Search
+2024-04-05,East,Blender Pro,Appliances,55,89.99,4949.45,2200,2749.45,46,M,Social Media
+2024-04-05,West,Air Purifier,Appliances,40,249.99,9999.60,6000,3999.60,54,F,Referral
+2024-04-06,North,Laptop Pro,Electronics,50,1299.99,64999.50,43500,21499.50,40,M,Online
+2024-04-06,South,Wireless Earbuds,Electronics,148,89.99,13318.52,5920,7398.52,26,F,Email
+2024-05-01,East,Office Chair,Furniture,32,349.99,11199.68,8000,3199.68,44,M,Search
+2024-05-01,West,Standing Desk,Furniture,19,699.99,13299.81,9500,3799.81,39,F,Social Media
+2024-05-02,North,Mechanical Keyboard,Electronics,90,149.99,13499.10,5400,8099.10,32,M,Referral
+2024-05-02,South,Monitor 4K,Electronics,46,549.99,25299.54,18400,6899.54,38,F,Online
+2024-05-03,East,Webcam HD,Electronics,112,79.99,8958.88,4480,4478.88,30,M,Email
+2024-05-03,West,Coffee Maker,Appliances,65,129.99,8449.35,3900,4549.35,43,F,Search
+2024-05-04,North,Wireless Mouse,Electronics,135,49.99,6748.65,2700,4048.65,27,M,Social Media
+2024-05-04,South,Desk Lamp,Furniture,96,39.99,3839.04,1920,1919.04,35,F,Referral
+2024-05-05,East,Smart Watch,Electronics,75,299.99,22499.25,11250,11249.25,33,M,Online
+2024-05-05,West,Blender Pro,Appliances,58,89.99,5219.42,2320,2899.42,47,F,Email
+2024-05-06,North,Air Purifier,Appliances,42,249.99,10499.58,6300,4199.58,55,M,Search
+2024-05-06,South,Laptop Pro,Electronics,53,1299.99,68899.47,46500,22399.47,41,F,Social Media
+2024-06-01,East,Wireless Earbuds,Electronics,165,89.99,14848.35,6600,8248.35,27,M,Referral
+2024-06-01,West,Office Chair,Furniture,35,349.99,12249.65,8750,3499.65,45,F,Online
+2024-06-02,North,Standing Desk,Furniture,21,699.99,14699.79,10500,4199.79,40,M,Email
+2024-06-02,South,Mechanical Keyboard,Electronics,95,149.99,14249.05,5700,8549.05,31,F,Search
+2024-06-03,East,Monitor 4K,Electronics,48,549.99,26399.52,19200,7199.52,39,M,Social Media
+2024-06-03,West,Webcam HD,Electronics,120,79.99,9598.80,4800,4798.80,29,F,Referral
+2024-06-04,North,Coffee Maker,Appliances,80,129.99,10399.20,4800,5599.20,44,M,Online
+2024-06-04,South,Wireless Mouse,Electronics,140,49.99,6998.60,2800,4198.60,28,F,Email
