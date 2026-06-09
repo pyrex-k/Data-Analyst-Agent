@@ -78,7 +78,7 @@ def interactive_mode(show_steps: bool, show_thinking: bool) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Data Analyst Agent powered by Claude",
+        description="Data Analyst Agent powered by Gemini",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=textwrap.dedent("""
             Examples:

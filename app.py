@@ -24,7 +24,7 @@ st.set_page_config(
 )
 
 st.title("📊 Data Analyst Agent")
-st.caption("Powered by Claude claude-opus-4-8 with adaptive thinking + tool use")
+st.caption("Powered by Gemini 2.0 Flash with function calling (free tier)")
 
 # ─── sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
