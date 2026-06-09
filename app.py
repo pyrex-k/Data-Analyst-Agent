@@ -14,7 +14,7 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from src.agent import TextStep, ThinkingStep, ToolCallStep, run_agent
+from src.agent import TextStep, ToolCallStep, run_agent
 
 # ─── page config ──────────────────────────────────────────────────────────────
 st.set_page_config(

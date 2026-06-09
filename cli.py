@@ -17,7 +17,7 @@ from pathlib import Path
 # Make sure src/ is importable when running from the project root.
 sys.path.insert(0, str(Path(__file__).parent))
 
-from src.agent import AgentResult, TextStep, ThinkingStep, ToolCallStep, run_agent
+from src.agent import AgentResult, TextStep, ToolCallStep, run_agent
 
 
 RESET  = "\033[0m"
@@ -28,12 +28,8 @@ YELLOW = "\033[33m"
 DIM    = "\033[2m"
 
 
-def _print_step(step: TextStep | ThinkingStep | ToolCallStep, show_thinking: bool) -> None:
-    if isinstance(step, ThinkingStep):
-        if show_thinking:
-            excerpt = textwrap.shorten(step.thinking, width=200, placeholder=" …")
-            print(f"{DIM}[thinking] {excerpt}{RESET}")
-    elif isinstance(step, TextStep):
+def _print_step(step: TextStep | ToolCallStep, show_thinking: bool) -> None:
+    if isinstance(step, TextStep):
         print(f"{CYAN}[agent]{RESET} {step.text}")
     elif isinstance(step, ToolCallStep):
         print(f"{YELLOW}[tool]{RESET} {BOLD}{step.tool_name}{RESET}  "
@@ -48,7 +44,7 @@ def _print_step(step: TextStep | ThinkingStep | ToolCallStep, show_thinking: boo
 def run_query_cli(query: str, show_steps: bool, show_thinking: bool) -> None:
     print(f"\n{BOLD}Query:{RESET} {query}\n{'─' * 60}")
 
-    def on_step(step: TextStep | ThinkingStep | ToolCallStep) -> None:
+    def on_step(step: TextStep | ToolCallStep) -> None:
         if show_steps:
             _print_step(step, show_thinking)
 
